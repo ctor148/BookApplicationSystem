@@ -1,0 +1,6 @@
+Printed Book, Title: Pride and Prejudice, Author: Jane Austen, Genre: Romance, Cost: $4480.0, Pages: 448
+Audiobook, Title: 1984, Author: George Orwell, Genre: Dystopian, Cost: $3300.0, Minutes: 660.0
+Printed Book, Title: Little Women, Author: Louisa, Genre: Coming-of-age, Cost: $2800.0, Pages: 280
+Printed Book, Title: Don Quixote, Author: Miguel de Cervantes, Genre: Novel, Cost: $10720.0, Pages: 1072
+Printed Book, Title: Wuthering Heights, Author: Emily Bronte, Genre: Romance, Cost: $4160.0, Pages: 416
+
